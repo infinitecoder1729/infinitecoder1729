@@ -22,4 +22,4 @@ I am an Electronics and Computer Engineering enthusiast who enjoys specific inte
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=infinitecoder1729&icon=1&color=4"></div><br></br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitecoder1729&show_icons=true&locale=en&layout=compact" alt="infinitecoder1729" height="200px" />&nbsp&nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitecoder1729&" alt="infinitecoder1729" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitecoder1729&show_icons=true&locale=en&layout=compact" alt="infinitecoder1729" height="150px" />&nbsp&nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitecoder1729&" alt="infinitecoder1729" height="150px"/>
