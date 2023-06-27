@@ -7,6 +7,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="50" alt="instagram logo"  />
   </a> &nbsp &nbsp <a href="https://www.t.me/Nikhilhanda" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="50" alt="telegram logo"  />
+  </a> &nbsp &nbsp <a href="https://discord.com/users/760766721530265600" target="_blank">
+    <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/discord/default.svg" height="50" alt="telegram logo"  />
+  </a> &nbsp &nbsp <a href="mailto:nikhil_handa@outlook.com" target="_blank">
+    <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/gmail/default.svg" height="50" alt="telegram logo"  />
   </a>
 </div>
 
