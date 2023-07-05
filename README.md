@@ -30,5 +30,10 @@
 <hr></hr>
 <div align="center">
 <h2 align="center">GitHub Stats 📊</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitecoder1729&show_icons=true&locale=en&layout=compact" alt="infinitecoder1729" height="150px" />&nbsp&nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitecoder1729&" alt="infinitecoder1729" height="150px"/></div><hr></hr><br></br><div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitecoder1729&show_icons=true&locale=en&layout=compact" alt="infinitecoder1729" height="150px" />&nbsp&nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitecoder1729&" alt="infinitecoder1729" height="150px"/></div>
+<hr></hr>
+<div align="center">
+<h2 align="center">My Music 🎧</h2>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=313slsb7xv2pm5qx3z2e6brb74ha&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ff006f&bar_color_cover=false"/></div>
+<hr></hr><div align="center">
 <img src="https://visitcount.itsvg.in/api?id=infinitecoder1729&icon=1&color=4"></div>
