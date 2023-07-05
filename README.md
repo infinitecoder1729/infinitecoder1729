@@ -34,6 +34,8 @@
 <hr></hr>
 <div align="center">
 <h2 align="center">My Music 🎧</h2>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=313slsb7xv2pm5qx3z2e6brb74ha&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ff006f&bar_color_cover=false"/></div>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=313slsb7xv2pm5qx3z2e6brb74ha&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff006f&bar_color_cover=falsee"/><br></br><img src="https://spotify-recently-played-readme.vercel.app/api?user=313slsb7xv2pm5qx3z2e6brb74ha&count=5&unique=1"/></div>
 <hr></hr><div align="center">
 <img src="https://visitcount.itsvg.in/api?id=infinitecoder1729&icon=1&color=4"></div>
+
+
