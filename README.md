@@ -15,7 +15,16 @@
 </div>
 <div>
   <h2 align="center">About Me 📝</h2>
-<font style="bold"> I am an Electronics and Computer Engineering enthusiast who enjoys specific interests in Communication Networks, Robotics, Semiconductors, VLSI Designing and Machine Learning. With an insatiable thirst of knowledge and skill development, I keep pushing my limits in these fields.<br><br>I have worked on projects involving Arduino, Raspberry PI, AI/ML (Using PyTorch), Matlab, KiCAD, LTSpice, Backend Development and small scale applications.<br><br>Beyond my technical acumen, I have a keen eye for capturing the natural beauty of our world through photography. When not tinkering with wires or code, you are likely to find me deep in a game of chess, lost in a good read or playing an intense match of badminton.<br><br>My unwavering belief in my potential drives me to excel in any challenge that comes my way. I stick to the quoting "No Resistance can drop my Potential".<br><br>If you're interested in collaborating on exciting projects or simply discussing the latest in technology, physics, F1, or football, I'm always eager to connect.<br><br>Still We Rise ! </font>
+<font style="bold"> 
+As an Electronics and Computer Engineering enthusiast, I have specific interests in cutting-edge technologies such as Communication Networks, Robotics, Semiconductors, VLSI Designing and Machine Learning. With an insatiable thirst of knowledge and skill development, I keep pushing my limits in these fields. <br>
+  <br>
+I have worked on projects involving Arduino, Raspberry PI, AI/ML (PyTorch), MatLab, KiCAD, LTSpice, Backend Development and small scale applications.
+<br><br>
+My technical skills include Python (Concepts of OOP, NumPy, Pandas, PyTorch and other libraries such as PIL, MatPlotLib and OpenCV), C (Data Structures and Algorithms), Matlab, SQL, Fusion 360, KiCAD, Arduino IDE and Photoshop.
+<br><br>
+Beyond my technical acumen, I have a keen eye for capturing the natural beauty of our world through photography. When not tinkering with wires or code, you are likely to find me deep in a game of chess, lost in a good read or playing an intense match of badminton. 
+<br><br>
+If you're interested in collaborating on exciting projects or research, I am always eager to connect.<br><br> </font>
 </div><hr></hr>
 <div align="center">
   <h2 align="center">Tech Stack 👨‍💻</h2>
