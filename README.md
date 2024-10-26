@@ -8,9 +8,11 @@
   </a> &nbsp &nbsp <a href="https://www.t.me/Nikhilhanda" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="50" alt="telegram logo"  />
   </a> &nbsp &nbsp <a href="https://discord.com/users/760766721530265600" target="_blank">
-    <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/discord/default.svg" height="50" alt="telegram logo"  />
+    <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/discord/default.svg" height="50" alt="discord logo"  />
   </a> &nbsp &nbsp <a href="mailto:nikhil_handa@outlook.com" target="_blank">
-    <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/gmail/default.svg" height="50" alt="telegram logo"  />
+    <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/src/assets/icons/social/microsoft-outlook/default.svg" height="50" alt="mail logo"  />
+  </a>&nbsp &nbsp <a href="https://infinitecoder1729.github.io" target="_blank">
+    <img src="https://github.com/user-attachments/assets/16f0cdb9-88fe-4702-94b2-f92cacca243a" height="50" alt="website logo"  />
   </a>
 </div>
 <div>
