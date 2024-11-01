@@ -1,4 +1,4 @@
-![Header](./assests/github-header-image.png)
+<a href="www.github.com/infinitecoder1729">![Header](./assests/github-header-image.png)</a>
 
 <div align="center">
   <a href="https://in.linkedin.com/in/nikhil-handa-6b42b2257" target="_blank">
