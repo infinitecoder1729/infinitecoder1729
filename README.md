@@ -20,7 +20,7 @@
 <font style="bold"> 
 As an Electronics and Computer Engineering enthusiast, I have specific interests in cutting-edge technologies such as Communication Networks, Robotics, Semiconductors, VLSI Designing and Machine Learning. With an insatiable thirst of knowledge and skill development, I keep pushing my limits in these fields. <br>
   <br>
-I have worked on projects involving Arduino, Raspberry PI, AI/ML (PyTorch), MatLab, KiCAD, LTSpice, Backend Development and small scale applications.
+I have worked on projects involving Verilog, Arduino, Raspberry PI, AI/ML (PyTorch), MatLab, KiCAD, LTSpice, Backend Development and small scale applications.
 <br><br>
 My technical skills include Python (Concepts of OOP, NumPy, Pandas, PyTorch and other libraries such as PIL, MatPlotLib and OpenCV), C (Data Structures and Algorithms), Matlab, SQL, Fusion 360, KiCAD, Arduino IDE and Photoshop.
 <br><br>
