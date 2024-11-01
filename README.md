@@ -22,7 +22,7 @@ As an Electronics and Computer Engineering enthusiast, I have specific interests
   <br>
 I have worked on projects involving Verilog, Arduino, Raspberry PI, AI/ML (PyTorch), MatLab, KiCAD, LTSpice, Backend Development and small scale applications.
 <br><br>
-My technical skills include Python (Concepts of OOP, NumPy, Pandas, PyTorch and other libraries such as PIL, MatPlotLib and OpenCV), C (Data Structures and Algorithms), Matlab, SQL, Fusion 360, KiCAD, Arduino IDE and Photoshop.
+My technical skills include Python (Concepts of OOP, NumPy, Pandas, PyTorch and other libraries such as PIL, MatPlotLib and OpenCV), C (Data Structures and Algorithms), C++, Verilog, Matlab, SQL, Fusion 360, KiCAD, Arduino IDE and Photoshop.
 <br><br>
 Beyond my technical acumen, I have a keen eye for capturing the natural beauty of our world through photography. When not tinkering with wires or code, you are likely to find me deep in a game of chess, lost in a good read or playing an intense match of badminton. 
 <br><br>
