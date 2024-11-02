@@ -14,8 +14,7 @@
   </a>&nbsp &nbsp <a href="https://infinitecoder1729.github.io" target="_blank">
     <img src="https://github.com/user-attachments/assets/16f0cdb9-88fe-4702-94b2-f92cacca243a" height="50" alt="website logo"  />
   </a>&nbsp &nbsp <a href="https://drive.google.com/file/d/1r5ujKkeqJfahMsgfHJ8sqIZLzBKJ8J7g/view" target="_blank">
-    <img src="![resume-icon-png-19036](https://github.com/user-attachments/assets/7dc7a614-df19-436d-b068-ac8221b7757c)
-" height="50" alt="resume logo"  />
+    <img src="https://github.com/user-attachments/assets/7dc7a614-df19-436d-b068-ac8221b7757c" height="50" alt="resume logo"  />
 </div>
 <div>
   <h2 align="center">About Me 📝</h2>
