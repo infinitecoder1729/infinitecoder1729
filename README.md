@@ -42,7 +42,7 @@ If you're interested in collaborating on exciting projects or research, I am alw
 <hr></hr>
 <div align="center">
 <h2 align="center">GitHub Stats 📊</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitecoder1729&show_icons=true&locale=en&layout=compact" alt="infinitecoder1729" height="150px" />&nbsp&nbsp<img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitecoder1729&" alt="infinitecoder1729" height="150px"/></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitecoder1729&show_icons=true&locale=en&layout=compact" alt="infinitecoder1729" height="150px" />&nbsp&nbsp<img src="https://awesome-github-stats.azurewebsites.net/user-stats/infinitecoder1729?cardType=github&theme=github-dark&preferLogin=false" alt="infinitecoder1729" height="150px"/></div>
 <hr></hr>
 <div align="center">
 <h2 align="center">My Music 🎧</h2>
