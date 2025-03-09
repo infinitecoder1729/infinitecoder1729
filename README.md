@@ -35,7 +35,11 @@ If you're interested in collaborating on exciting projects or research, I am alw
 <hr></hr>
 <div align="left">
 <h2 align="center">My Publications 📑</h2>
-  <ol><li><h3></h3><a href="https://www.linkedin.com/pulse/exploring-flexible-electronics-ieee-bits-pilani/?trackingId=vhy9CLGuQTOj8%2FovSt0Cew%3D%3D">Exploring Flexible Electronics</a> : <a href="https://www.linkedin.com/newsletters/innovation-insider-7079096090674798593/">Written for Innovation Insider</a>, This article delves into the realm of Flexible Electronics, where the convergence of technology and flexibility opens up endless possibilities for applications. It concisely describes all the required information such as Methods, Materials, Applications along with Pros and Cons relating to Flexible Electronics.</h3></li>
+  <ol>
+    <li><h3></h3>Gandhi, J., Handa, N., Nayak, A., Diksha Shekhawat, M. Santosh, Jaya Dofe and Pandey, J.G. (2025). SHAKTI: Securing Hardware IPs by Cascade Gated Multiplexer-Based Logic Obfuscation. [online] pp.139–144. doi:https://doi.org/10.1109/vlsid64188.2025.00037. 
+    <li><h3></h3><a href="https://www.linkedin.com/pulse/neuromorphic-engineering-unleashing-intelligence-ieee-bits-pilani?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_publications_details%3Bi5wTVYyPT%2Be6K%2B1elCbzkQ%3D%3D">Neuromorphic Engineering : Unleashing Intelligence
+</a> : <a href="https://www.linkedin.com/newsletters/innovation-insider-7079096090674798593/">Written for Innovation Insider</a>, Dive into the realm of Neuromorphic engineering – an interdisciplinary domain that draws inspiration from the architecture of the human brain. In this riveting exploration, unravel the marvels of brain-inspired computing, a shift from traditional models. Neuromorphic systems emulate parallel processing and distributed memory storage, driving efficiency, adaptability, and intelligence to unprecedented heights. Uncover the ingenious concepts, that fuel this transformation, from Hodgkin-Huxley models to Spiking Neural Networks. While this fascinating journey ignites prospects in robotics, cognitive computing, and beyond, ethical considerations and scalability challenges beckon us to tread thoughtfully.</h3></li>
+    <li><h3></h3><a href="https://www.linkedin.com/pulse/exploring-flexible-electronics-ieee-bits-pilani/?trackingId=vhy9CLGuQTOj8%2FovSt0Cew%3D%3D">Exploring Flexible Electronics</a> : <a href="https://www.linkedin.com/newsletters/innovation-insider-7079096090674798593/">Written for Innovation Insider</a>, This article delves into the realm of Flexible Electronics, where the convergence of technology and flexibility opens up endless possibilities for applications. It concisely describes all the required information such as Methods, Materials, Applications along with Pros and Cons relating to Flexible Electronics.</h3></li>
   <li><h3></h3><a href="https://www.linkedin.com/pulse/self-healing-code-revolutionizing-world-programming/?trackingId=uMxFR44wRSyUMi0EkVcD9A%3D%3D">Self-Healing Code, "Revolutionizing the World of Programming"</a> : <a href="https://www.linkedin.com/newsletters/innovation-insider-7079096090674798593/">Written for Innovation Insider</a>, This article helps in exploring the concept of Self-Healing Code and its potential to enhance software resilience and reliability. It summarizes the complex notion of a code developing itself, and provides resources along with required information for readers to discover the field in greater detail </h3></li>
   </ol>
 </div>
@@ -45,9 +49,9 @@ If you're interested in collaborating on exciting projects or research, I am alw
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infinitecoder1729&show_icons=true&locale=en&layout=compact" alt="infinitecoder1729" height="150px" />&nbsp&nbsp<img src="https://awesome-github-stats.azurewebsites.net/user-stats/infinitecoder1729?cardType=github&theme=github-dark&preferLogin=false" alt="infinitecoder1729" height="150px"/></div>
 <hr></hr>
 <div align="center">
-<h2 align="center">My Music 🎧</h2>
+<!-- <h2 align="center">My Music 🎧</h2>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=313slsb7xv2pm5qx3z2e6brb74ha&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff006f&bar_color_cover=falsee"/><br></br><img src="https://spotify-recently-played-readme.vercel.app/api?user=313slsb7xv2pm5qx3z2e6brb74ha&count=5&unique=1"/></div>
-<hr></hr><div align="center">
-<img src="https://visitcount.itsvg.in/api?id=infinitecoder1729&icon=1&color=4"></div>
+<hr></hr><div align="center"> -->
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Finfinitecoder1729&s=30&c=00ff00&bg=00000000&no=2&ff=alien&tb=&ta="></div>
 
 
